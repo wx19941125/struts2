@@ -25,6 +25,7 @@
 
 ### struts2 对配置文件的处理
 
- 多人团队开发中，不可避免同时操作struts2.xml，
- ### Markdown <include file="user.xml"></include>;
+ 多人团队开发中，不可避免同时操作struts2.xml,
+ ```java
+ <include file="user.xml"></include>  //java
  
