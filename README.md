@@ -2,22 +2,20 @@
 
 模型-视图-控制，使业务逻辑与视图显示分离。
 
+
 ### 搭建struts2环境
 
-导包→struts2.xml→web.xml→测试;
+1 导包→struts2.xml→web.xml→测试;
 
-struts2工作流程;
+2 struts2工作流程;
 
 
-# Header 1
-## Header 2
-### Header 3
+### struts2前台→后台
 
-- Bulleted
-- List
+1 页面访问方法
+2 参数传递后台
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
