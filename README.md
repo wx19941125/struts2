@@ -27,5 +27,5 @@
 
  多人团队开发中，不可避免同时操作struts2.xml,
  ```java
- <include file="user.xml"></include>  //java
+ <include file="user.xml"></include> ``` //java
  
