@@ -7,24 +7,20 @@
 1 导包→struts2.xml→web.xml→测试。
 2 struts2工作流程。
 
-### struts2前台→后台
+### struts2 前台→→后台
 
 1 页面访问方法。
 2 参数传递后台。
 
+### struts2 后台→→前台
 
+ 1 获取前台参数。
+ 2 设置前台参数。
+ 3 返回前台页面。
+ 
+ ### struts2 前台数据交互
+ 
+ 1 获取后台数据。
+ 2 逻辑流程控制。
+ 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wx19941125/struts2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
