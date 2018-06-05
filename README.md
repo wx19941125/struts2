@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to struts2
 
-You can use the [editor on GitHub](https://github.com/wx19941125/struts2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+模型-视图-控制，使业务逻辑与视图显示分离。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 搭建struts2环境
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+导包→struts2.xml→web.xml→测试;
 
 ```markdown
 Syntax highlighted code block
