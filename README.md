@@ -5,9 +5,8 @@
 ### 搭建struts2环境
 
 导包→struts2.xml→web.xml→测试;
+struts2工作流程
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
