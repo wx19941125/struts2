@@ -22,3 +22,8 @@
 
  方法(一) web.xml中配置<error-page></error-page>;
  方法(二) struts.xml中配置 全局异常映射 全局结果集;
+
+### struts2 对配置文件的处理
+
+ 多人团队开发中，不可避免同时操作struts2.xml，<include file="user.xml"></include>;
+ 
